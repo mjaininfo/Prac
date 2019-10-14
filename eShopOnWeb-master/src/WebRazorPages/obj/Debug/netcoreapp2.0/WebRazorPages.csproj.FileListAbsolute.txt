@@ -1,0 +1,15 @@
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.deps.json
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.runtimeconfig.json
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.runtimeconfig.dev.json
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.dll
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.pdb
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\ApplicationCore.dll
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\ApplicationCore.pdb
+D:\Core\eShopOnWeb-master\src\WebRazorPages\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.csprojResolveAssemblyReference.cache
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.csproj.CoreCompileInputs.cache
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.AssemblyInfoInputs.cache
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\WebRazorPages.AssemblyInfo.cs
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.dll
+D:\Core\eShopOnWeb-master\src\WebRazorPages\obj\Debug\netcoreapp2.0\Microsoft.eShopWeb.RazorPages.pdb
